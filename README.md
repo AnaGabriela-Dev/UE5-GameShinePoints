@@ -29,3 +29,7 @@ The goal of this project was to learn Unreal Engine 5 gameplay programming, AI s
 * UI architecture using MVVM
 * Character animation setup and configuration
 * Gameplay programming in C++
+
+## Wants to play?
+
+Itch.io: https://bibibloom.itch.io/shinepointsprototype
